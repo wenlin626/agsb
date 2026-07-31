@@ -31,11 +31,11 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "xfhzsxd"         # 用户名
-UUID = "48b18cb7-926a-401f-ab3a-48c6befff702"                     # UUID，留空则自动生成
-PORT = 41800                   # Vmess端口，留空或0则自动生成
-DOMAIN = "share.cwl.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNzc4Yjg1ZjFlMjcxNmU2NTJlYWU3ZGNlMjRmZDFkZWQiLCJ0IjoiYjAxNjU5OTAtYjk2YS00OTAxLWFkNmUtYjhhNjIyNWY5YjcwIiwicyI6Ik5qUXlNalV6TmpFdFpqZGpOUzAwTURRMUxUZzJNVGd0TjJVNVkyRTNNekZpWldFdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+USER_NAME = "wenlin"         # 用户名
+UUID = "ad07f6dd-ad08-4241-84e2-cb7d3782d9d2"                     # UUID，留空则自动生成
+PORT = 52800                   # Vmess端口，留空或0则自动生成
+DOMAIN = "wenlin.syqwx.com"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiNzc4Yjg1ZjFlMjcxNmU2NTJlYWU3ZGNlMjRmZDFkZWQiLCJ0IjoiNzRiNjdmMzEtYTZjZi00MmE2LWFmYTMtMWE1OGFiMWU5MGNjIiwicyI6Ik1qQmhZamMzWVdFdE9UUTJOaTAwWWpsbUxXRmtOamd0TUdaaVpERmhaREptTnpVMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
