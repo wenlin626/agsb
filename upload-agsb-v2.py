@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "wenlin"         # 用户名
 UUID = "ad07f6dd-ad08-4241-84e2-cb7d3782d9d2"                     # UUID，留空则自动生成
-PORT = 52800                   # Vmess端口，留空或0则自动生成
+PORT = 53929                   # Vmess端口，留空或0则自动生成
 DOMAIN = "wenlin.syqwx.com"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNzc4Yjg1ZjFlMjcxNmU2NTJlYWU3ZGNlMjRmZDFkZWQiLCJ0IjoiNzRiNjdmMzEtYTZjZi00MmE2LWFmYTMtMWE1OGFiMWU5MGNjIiwicyI6Ik1qQmhZamMzWVdFdE9UUTJOaTAwWWpsbUxXRmtOamd0TUdaaVpERmhaREptTnpVMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
